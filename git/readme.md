@@ -98,3 +98,10 @@ even if there is a bug in the main branch you can solve it
 and after that you can develop your new feature 
 then when you're satisfied with both of these you can merge both the branches to one
 
+git branch -> it will show you  what branch you're in
+
+now if you want to create a new branch and work on it
+
+git checkout -b style( in place of style you can place any thing you want)
+
+
