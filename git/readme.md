@@ -82,3 +82,19 @@ git reset --hard origin/main
 (your code will be resetted)
 
 with this you will get back to previous commit
+
+
+Now we will see branching
+
+consider a scenario where you're working on the code and added a new feature and then you're doing some changes witht he new feature tooo
+but you goot to know that there is a bug in the code which was before adding feature
+
+so now you need to work on the bug but not disturbing this feature
+This is where branching comes in
+
+instead of working on a new feature int eh main code
+create a branch and work on it in the branch 
+even if there is a bug in the main branch you can solve it
+and after that you can develop your new feature 
+then when you're satisfied with both of these you can merge both the branches to one
+
