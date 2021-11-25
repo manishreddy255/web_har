@@ -104,4 +104,20 @@ now if you want to create a new branch and work on it
 
 git checkout -b style( in place of style you can place any thing you want)
 
+and if you wanna merge both
+
+then return to main branch by
+git checkout main
+
+then 
+
+git merge style(style is branch name)
+
+then you'll have a merged file
+
+
+Now forking if you want to get any open source project and want to contribute to it
+just do a fork and then it'll get into your repo
+then when you did a major change you can make a pull req 
+if satisfactory they'll accept
 
