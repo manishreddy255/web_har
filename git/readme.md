@@ -7,7 +7,8 @@ make changes to it
 first command if you want a code from a github repo
 then  
 
-git clone <url> 
+git clone url
+
 with this the whole repo is downloaded into our machine
 so that you have a copy of that code 
 
