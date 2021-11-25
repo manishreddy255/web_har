@@ -40,6 +40,11 @@ and you want to get those changes to your local machine
   git pull 
 
 it'll just get whatever is updated in the repo and sets it in the local machine
-  
 
+
+* Another thing is when you and your co-worker are working on a project and both did the changes to the same code and same line
+then we have merge conflicts
+
+then it will give to a conflict eroor and you can try to fix it
+  
 
