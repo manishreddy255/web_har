@@ -38,6 +38,8 @@ and you want to get those changes to your local machine
   to get all the changes to the local repo so that you can work with that updated thing
   
   git pull 
+
+it'll just get whatever is updated in the repo and sets it in the local machine
   
 
 
