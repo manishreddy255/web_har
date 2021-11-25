@@ -46,5 +46,18 @@ it'll just get whatever is updated in the repo and sets it in the local machine
 then we have merge conflicts
 
 then it will give to a conflict eroor and you can try to fix it
-  
 
+as git operates on adding lines and deleting line
+when you chnage something in the same line then a conflict arises
+when you pull the conflict then it will show something like this
+  
+<<<<<<< HEAD
+    <h1>welcome home my boy !!</h1>
+=======
+    <h1 style="color: white">welcome home my boy !</h1>
+>>>>>>> ad84adf89a0ad6328298453dc84c9eda4512258b
+
+
+and it will show like this 
+then what you need to do is
+just change in however way you want of the code and then push it to the repo
