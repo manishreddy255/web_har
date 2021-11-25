@@ -62,3 +62,23 @@ when you pull the conflict then it will show something like this
 and it will show like this 
 then what you need to do is
 just change in however way you want of the code and then push it to the repo
+
+
+Other commands which are useful are 
+
+git log
+
+to see what ever you have done in the repository
+
+Now if you want to revert it back to old state old commit you can use
+
+git reset --hard <commit> 
+(it's the commit # you'll get in git log) 
+to get back to commit which you want
+
+if you want to reset back to the file that is online you can use
+
+git reset --hard origin/main
+(your code will be resetted)
+
+with this you will get back to previous commit
