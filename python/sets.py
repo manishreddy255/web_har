@@ -20,4 +20,4 @@ print(s)
 # no elements ever appear twice in a set
 
 # how many elemnts are in the set
-print(f"there are {len(s)} in set")
+print(f"there are {len(s)} in")
