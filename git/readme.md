@@ -31,5 +31,13 @@ git status
 when you want to push changes to repo
 git push (this will push changes to master branch)
 
+Now we will see how pull works and a scenario for it
+if there is someone who made a change in the code in the repository 
+and you want to get those changes to your local machine
+  then you'll use 
+  to get all the changes to the local repo so that you can work with that updated thing
+  
+  git pull 
+  
 
 
